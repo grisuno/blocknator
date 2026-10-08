@@ -2,6 +2,7 @@
 
 ## generate_blocklist.sh
 - Layer: utility
+- Doc: ============================================================================= generate_blocklist.sh - Generate iptables 
 - Language: sh
 - Symbols:
   - `usage` (function, line 42)
